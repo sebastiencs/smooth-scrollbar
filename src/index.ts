@@ -1,4 +1,4 @@
-import './polyfills';
+// import './polyfills';
 import * as I from './interfaces/';
 
 import {
